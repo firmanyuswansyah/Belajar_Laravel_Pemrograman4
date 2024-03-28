@@ -30,6 +30,7 @@
                         <button action="submit" class="btn btn-danger">Delete</button>
                     </form>
                       {{-- <a href="/user/delete{{$item->id_pelanggan}}" class="btn btn-danger">Delete</a> --}}
+                      {{-- <a href="/user/delete{{$item->id_pelanggan}}" class="btn btn-danger">Delete</a> --}}
 
                     </td>
                 </tr>
